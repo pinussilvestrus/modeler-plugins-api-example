@@ -1,0 +1,19 @@
+{
+  "name": "modeler-plugins-api-example",
+  "version": "0.0.0",
+  "description": "Example to consume a Modeler Plugins API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "pinussilvestrus",
+    "email": "niklas.kiefer@camunda.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
